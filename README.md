@@ -15,12 +15,12 @@ You can also use `inline code` within sentences.
 
 ## Links
 ### Standard Links
-[External link](https://docsify.js.org)
-[Link with title](https://docsify.js.org "Docsify Documentation")
+[External link](https://docsify.js.org)  
+[Link with title](https://docsify.js.org "Docsify Documentation")  
 
 ### Anchor Links
-[Jump to Summary](#summary)
-[Go to Code Blocks](#code-blocks)
+[Jump to Summary](#summary)  
+[Go to Code Blocks](#code-blocks)  
 
 ### Auto-linked URLs
 https://docsify.js.org
