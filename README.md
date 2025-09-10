@@ -23,8 +23,8 @@ You can also use `inline code` within sentences.
 [Go to Code Blocks](#code-blocks)  
 
 ### Auto-linked URLs
-https://docsify.js.org
-<https://github.com>
+https://docsify.js.org  
+<https://github.com>  
 
 ## Lists
 ### Unordered List
