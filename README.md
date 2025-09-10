@@ -1,4 +1,4 @@
-# GitHub Demo Markdown File
+# Standard and GitHub Flavored Markdown Demo
 
 Explore the wide range of Markdown features available for creating various types of content.
 
